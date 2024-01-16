@@ -762,6 +762,32 @@ footer h3 {
   border-radius: 16px;
 }
 
+.img .inner_img {
+  width: 324px;
+  height: 120px;
+  transform: rotate(-19.628deg);
+  border-radius: 16px;
+  background: #ff5400;
+  position: relative;
+  left: 41.5rem;
+  top: 32rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.inner_img h2 {
+  font-size: 3rem;
+  color: #fff;
+}
+.inner_img img {
+  width: 40%;
+  background-color: #fff;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
 form {
   width: 80%;
   height: 80%;
